@@ -18,6 +18,7 @@ extensions = [
     'myst_parser',
     "sphinxcontrib.mermaid",
     "sphinx_copybutton",
+    'sphinx.ext.mathjax',  # 推荐使用 MathJax 渲染公式
 ]
 
 source_suffix = {
@@ -49,4 +50,11 @@ html_theme_options = {
     "navigation_depth": 4,       # 显示目录层级深度
     "includehidden": False,       # 包含隐藏的页面
     "titles_only": False,        # 只显示标题，不显示整个toctree
+}
+# 可选：设置 MathJax 配置
+mathjax_config = {
+    'tex2jax': {
+        'inlineMath': [['$', '$'], ['\\(', '\\)']],
+        'displayMath': [['$$', '$$'], ['\\[', '\\]']],
+    },
 }
