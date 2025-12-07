@@ -44,5 +44,9 @@ html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 
 html_theme_options = {
-    'includehidden': False,
+    "collapse_navigation": True,  # 默认折叠二级目录
+    "sticky_navigation": True,   # 导航栏固定
+    "navigation_depth": 4,       # 显示目录层级深度
+    "includehidden": False,       # 包含隐藏的页面
+    "titles_only": False,        # 只显示标题，不显示整个toctree
 }

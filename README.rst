@@ -1,9 +1,4 @@
-Template for the Read the Docs tutorial
+这是JRLBM的教程文档
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+JRLBM-THU是一个讲解格子玻尔兹曼方法（LBM）的视频账号，主要在B站上分享视频，id为：JR同学教LBM-TH
