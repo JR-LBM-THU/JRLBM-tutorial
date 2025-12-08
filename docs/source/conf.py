@@ -54,3 +54,7 @@ html_theme_options = {
     "includehidden": False,       # 包含隐藏的页面
     "titles_only": False,        # 只显示标题，不显示整个toctree
 }
+
+html_css_files = [
+    'custom.css',
+]

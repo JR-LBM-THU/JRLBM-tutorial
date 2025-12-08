@@ -1,0 +1,18 @@
+/* _static/custom.css */
+/* 改为公式右编号 */
+.math {
+    position: relative;
+}
+
+.eqno {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    margin-left: 1em;
+}
+
+div.math p {
+    margin-right: 2em;
+    /* 给编号留空间 */
+}
