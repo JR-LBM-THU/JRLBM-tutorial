@@ -224,3 +224,8 @@ $$
 <!-- <img src="./Poiseuille/log-log.png" alt="Image description" width="500"/> -->
 
 可以看到，LBM具有二阶精度。
+
+## 代码下载
+[库埃特流动.zip](https://raw.githubusercontent.com/JR-LBM-THU/JRLBM-tutorial/main/docs/source/LBM基础入门/files/4.1库埃特流动.zip)
+
+[泊肃叶流动.zip](https://raw.githubusercontent.com/JR-LBM-THU/JRLBM-tutorial/main/docs/source/LBM基础入门/files/4.2泊肃叶流动.zip)
