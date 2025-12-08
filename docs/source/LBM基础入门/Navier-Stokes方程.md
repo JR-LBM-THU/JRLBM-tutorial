@@ -138,17 +138,36 @@ $$
 $$
 ### 数值模拟结果
 下图是库埃特流动的数值模拟结果，其中$\nu=0.1$，$H=50$，$U=0.1$，$L=4$。选择不同的边界条件和时间、空间步长进行计算。
-
-Zou-He边界条件，$\delta_x = 1$，$\delta_t = 1$：
+```{figure} fig/fig4/ZouHe-dx=1-dt=1.png
+:width: 50%
+:alt: logo
+:align: center
+Zou-He边界条件，$\delta_x = 1$，$\delta_t = 1$
+```
 <!-- <img src="./couette/ZouHe-dx=1-dt=1.png" alt="Image description" width="500"/> -->
 
-Zou-He边界条件，$\delta_x = 2$，$\delta_t = 2$：
+```{figure} fig/fig4/ZouHe-dx=2-dt=2.png
+:width: 50%
+:alt: logo
+:align: center
+Zou-He边界条件，$\delta_x = 2$，$\delta_t = 2$
+```
 <!-- <img src="./couette/ZouHe-dx=2-dt=2.png" alt="Image description" width="500"/> -->
 
-非平衡态外推格式，$\delta_x = 1$，$\delta_t = 1$：
+```{figure} fig/fig4/noequ-dx=1-dt=1.png
+:width: 50%
+:alt: logo
+:align: center
+非平衡态外推格式，$\delta_x = 1$，$\delta_t = 1$
+```
 <!-- <img src="./couette/noequ-dx=1-dt=1.png" alt="Image description" width="500"/> -->
 
-非平衡态外推格式，$\delta_x = 2$，$\delta_t = 2$：
+```{figure} fig/fig4/noequ-dx=2-dt=2.png
+:width: 50%
+:alt: logo
+:align: center
+非平衡态外推格式，$\delta_x = 2$，$\delta_t = 2$
+```
 <!-- <img src="./couette/noequ-dx=2-dt=2.png" alt="Image description" width="500"/> -->
 
 可以看到，两种边界条件都与计算结果很好的吻合，而且可以任意的调节时间、空间步长，而不影响计算结果。
@@ -168,18 +187,36 @@ $$
 $$
 \epsilon = \frac{\max |u_y - u_y^\mathrm{analytic}|}{\max |u_y^\mathrm{analytic}|}
 $$
-
-当$\delta_x = 0.5$，$\delta_t = 0.25$时，$\epsilon=7.2e-04$：
+```{figure} fig/fig4/dx=0.5-dt=0.25.png
+:width: 50%
+:alt: logo
+:align: center
+当$\delta_x = 0.5$，$\delta_t = 0.25$时，$\epsilon=7.2e-04$
+```
 <!-- <img src="./Poiseuille/dx=0.5-dt=0.25.png" alt="Image description" width="500"/> -->
 
-当$\delta_x = 1$，$\delta_t = 1$时，$\epsilon=0.0028$：
+```{figure} fig/fig4/dx=1-dt=1.png
+:width: 50%
+:alt: logo
+:align: center
+当$\delta_x = 1$，$\delta_t = 1$时，$\epsilon=0.0028$
+```
 <!-- <img src="./Poiseuille/dx=1-dt=1.png" alt="Image description" width="500"/> -->
 
-当$\delta_x = 2$，$\delta_t = 2$时，$\epsilon=0.0111$：
+```{figure} fig/fig4/dx=2-dt=4.png
+:width: 50%
+:alt: logo
+:align: center
+当$\delta_x = 2$，$\delta_t = 4$时，$\epsilon=0.0111$
+```
 <!-- <img src="./Poiseuille/dx=2-dt=4.png" alt="Image description" width="500"/> -->
 
-绘制$\delta_x$与$\epsilon$的关系：
-
+```{figure} fig/fig4/log-log.png
+:width: 50%
+:alt: logo
+:align: center
+绘制$\delta_x$与$\epsilon$的关系
+```
 <!-- <img src="./Poiseuille/log-log.png" alt="Image description" width="500"/> -->
 
 可以看到，LBM具有二阶精度。

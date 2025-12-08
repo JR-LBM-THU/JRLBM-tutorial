@@ -21,18 +21,20 @@ extensions = [
     'sphinx.ext.mathjax',  # 推荐使用 MathJax 渲染公式
 ]
 
+# MyST 配置
+myst_enable_extensions = [
+    "amsmath",      # 启用数学编号
+    'attrs_block',
+    "tasklist",
+    "deflist",
+    "dollarmath",   # 启用 $ 和 $$ 数学
+    # "colon_fence",  # 启用 ::: 代码块
+]
+
 source_suffix = {
     '.rst': 'restructuredtext',
     '.md': 'markdown',
 }
-
-
-myst_enable_extensions = [
-    'attrs_block',
-    "tasklist",
-    "deflist",
-    "dollarmath",
-]
 
 templates_path = ['_templates']
 exclude_patterns = []
