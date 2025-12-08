@@ -1,5 +1,9 @@
 # Navier-Stokes方程
-> B站：JR同学教LBM-THU
+文档视频讲解：
+
+> [LBM求解Couette(库埃特)流动：Zou-He与非平衡外推边界条件](https://www.bilibili.com/video/BV1PkcueFE2z/?share_source=copy_web&vd_source=6cb794fb9d90103946fb79ba5f60451f)
+
+> [LBM求解泊肃叶(Poiseuille)流动](https://www.bilibili.com/video/BV1enNoeWEMg/?share_source=copy_web&vd_source=6cb794fb9d90103946fb79ba5f60451f)
 
 这节我们介绍一下**NS方程**的格子玻尔兹曼方法实现。
 

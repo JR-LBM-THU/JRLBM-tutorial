@@ -58,3 +58,8 @@ html_theme_options = {
 html_css_files = [
     'custom.css',
 ]
+
+# 自定义变量：GitHub 仓库信息
+github_user = "JR-LBM-THU"
+github_repo = "JRLBM-tutorial"
+github_branch = "main"
