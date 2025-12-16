@@ -229,3 +229,17 @@ $$
 [库埃特流动.zip](https://raw.githubusercontent.com/JR-LBM-THU/JRLBM-tutorial/main/docs/source/LBM基础入门/files/4.1库埃特流动.zip)
 
 [泊肃叶流动.zip](https://raw.githubusercontent.com/JR-LBM-THU/JRLBM-tutorial/main/docs/source/LBM基础入门/files/4.2泊肃叶流动.zip)
+
+## 求支持！🥺
+
+如果您觉得这个项目对您有帮助，可以考虑用以下方式支持我：
+
+- ☕ 请我喝杯咖啡
+> 如果条件允许，[欢迎捐赠支持](../支持与捐赠/支持与捐赠.md)！  
+> 每一分都是对我莫大的鼓励，让我能投入更多时间维护和更新。
+
+- 📄 引用我的文章
+> 如果暂时不便捐赠，[适当引用我的文章](../我的文章/我的文章.md)也是极好的支持！  
+> 您的引用能帮助这个工作获得更多关注，同样让我感到无比欣慰。
+
+无论哪种方式，都是对我的巨大支持！🙏感谢您让开源世界更美好！✨
