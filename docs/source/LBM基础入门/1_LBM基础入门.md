@@ -14,4 +14,5 @@ LBM物理图像讲解.md
 对流扩散方程.md
 Navier-Stokes方程.md
 复杂几何层流流动.md
+扩散方程 copy.md
 ```
