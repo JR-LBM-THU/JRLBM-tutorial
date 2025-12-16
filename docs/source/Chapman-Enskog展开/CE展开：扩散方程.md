@@ -134,9 +134,10 @@ c_{s}^{2}\nabla _1T=-\frac{1}{\tau \delta _t}\sum_i{\boldsymbol{e}_{\boldsymbol{
 :label: diff-eq20
 c_{s}^{2}\delta _t\left( \tau -\frac{1}{2} \right) =\frac{\delta _{x}^{2}}{3\delta _t}\left( \tau -\frac{1}{2} \right) \equiv \alpha 
 ```
-## 求支持！🥺
 
-如果您觉得这个项目对您有帮助，可以考虑用以下方式支持我：
+---
+
+**如果您觉得这个项目对您有帮助，可以考虑用以下方式支持我：**
 
 - ☕ 请我喝杯咖啡
 > 如果条件允许，[欢迎捐赠支持](../支持与捐赠/支持与捐赠.md)！  

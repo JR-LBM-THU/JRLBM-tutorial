@@ -155,9 +155,9 @@ c_{s}^{2}\delta _t\left( \tau -\frac{1}{2} \right) =\frac{\delta _{x}^{2}}{3\del
 {\color[RGB]{240, 0, 0} \frac{\partial T}{\partial t}+\nabla \left( \boldsymbol{u}T \right) =\nabla \left( \alpha \nabla T \right) }
 ```
 
-## 求支持！🥺
+---
 
-如果您觉得这个项目对您有帮助，可以考虑用以下方式支持我：
+**如果您觉得这个项目对您有帮助，可以考虑用以下方式支持我：**
 
 - ☕ 请我喝杯咖啡
 > 如果条件允许，[欢迎捐赠支持](../支持与捐赠/支持与捐赠.md)！  
