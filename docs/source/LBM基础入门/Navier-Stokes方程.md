@@ -20,14 +20,14 @@ $$
 
 其中$\rho$是密度，$\boldsymbol{u}$是速度，$p$是压力，$\mu$是动力粘度，$\lambda$是第二粘度系数，$\boldsymbol{F}$是外力。
 
-对于不可压缩流体，密度$\rho$为常数，那么NS方程可以简化为：
+对于不可压缩流体，密度$\rho$为常数，并且不考虑外力，那么NS方程可以简化为：
 
 $$
 \nabla \cdot \boldsymbol{u} = 0
 $$
 
 $$
-\frac{\partial \boldsymbol{u}}{\partial t} + \boldsymbol{u} \cdot \nabla \boldsymbol{u} = -\frac{1}{\rho} \nabla p + \nu \nabla^2 \boldsymbol{u} + \boldsymbol{F}
+\frac{\partial \boldsymbol{u}}{\partial t} + \boldsymbol{u} \cdot \nabla \boldsymbol{u} = -\frac{1}{\rho} \nabla p + \nu \nabla^2 \boldsymbol{u}
 $$
 
 ## NS方程的D2Q9模型
