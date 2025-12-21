@@ -36,4 +36,7 @@ LBM基础入门/1_LBM基础入门.md
 Chapman-Enskog展开/1_Chapman-Enskog展开.md
 我的文章/我的文章.md
 支持与捐赠/支持与捐赠.md
+LBM通用模型/1_LBM通用模型.md
 ```
+
+<!-- python3 -m http.server 8000 -->
