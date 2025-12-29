@@ -1,5 +1,5 @@
 # LBM物理图像
-文档视频讲解：
+文档B站视频讲解：
 
 > [LBM入门课程(1)格子玻尔兹曼方法的物理图像浅讲](https://www.bilibili.com/video/BV1n91qYhEHQ/?share_source=copy_web&vd_source=6cb794fb9d90103946fb79ba5f60451f)
 

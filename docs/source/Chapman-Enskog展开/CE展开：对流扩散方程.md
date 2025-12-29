@@ -1,5 +1,5 @@
 # CE展开：对流扩散方程
-文档视频讲解：
+文档B站视频讲解：
 > [LBM求解对流扩散方程的Chapman-Enskog展开(CE展开)](https://www.bilibili.com/video/BV1dR9tY7EBu/?share_source=copy_web&vd_source=6cb794fb9d90103946fb79ba5f60451f)
 
 **<font color='red'>红色为相对于扩散方程增加的内容</font>**

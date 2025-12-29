@@ -1,5 +1,5 @@
 # Navier-Stokes方程
-文档视频讲解：
+文档B站视频讲解：
 
 > [LBM求解Couette(库埃特)流动：Zou-He与非平衡外推边界条件](https://www.bilibili.com/video/BV1PkcueFE2z/?share_source=copy_web&vd_source=6cb794fb9d90103946fb79ba5f60451f)
 
