@@ -134,12 +134,12 @@ A\varepsilon +B\varepsilon ^2=C\varepsilon +D\varepsilon ^2
 为了计算 $\Pi^{(1)} = \sum \boldsymbol{e}_i \boldsymbol{e}_i f_i^{(1)}$，利用式{eq}`CE-ns-eq10`（为了推导方便，这部分切换为索引标识法）：
 ```{math}
 :label: CE-ns-eq18
-\Pi^{(1)}_{ij} = \sum_i e_{i,i} e_{i,j} f_i^{(1)} = -\tau \delta_t \sum_i e_{i,i} e_{i,j} \left( \frac{\partial}{\partial t_1}+\boldsymbol{e}_{i}\cdot \nabla _1 \right)f_i ^{\mathrm{eq}}
+\Pi^{(1)}_{ij} = \sum_\alpha e_{\alpha,i} e_{\alpha,j} f_\alpha^{(1)} = -\tau \delta_t \sum_\alpha e_{\alpha,i} e_{\alpha,j} \left( \frac{\partial}{\partial t_1}+\boldsymbol{e}_{\alpha}\cdot \nabla _1 \right)f_\alpha ^{\mathrm{eq}}
 ```
 展开上式：
 ```{math}
 :label: CE-ns-eq18-1
-\Pi^{(1)}_{ij} = -\tau \delta_t \left[ \frac{\partial}{\partial t_1} \left( \sum_i e_{i,i} e_{i,j} f_i^{\mathrm{eq}} \right) + \frac{\partial}{\partial x_{1,k}} \left( \sum_i e_{i,i} e_{i,j} e_{i,k} f_i^{\mathrm{eq}} \right) \right]
+\Pi^{(1)}_{ij} = -\tau \delta_t \left[ \frac{\partial}{\partial t_1} \left( \sum_\alpha e_{\alpha,i} e_{\alpha,j} f_\alpha^{\mathrm{eq}} \right) + \frac{\partial}{\partial x_{1,k}} \left( \sum_\alpha e_{\alpha,i} e_{\alpha,j} e_{\alpha,k} f_\alpha^{\mathrm{eq}} \right) \right]
 ```
 其中二阶矩 $\sum_i e_{i,i} e_{i,j} f_i^{\mathrm{eq}} = \Pi^{(0)}_{ij} = \rho u_i u_j + p \delta_{ij}$。
 三阶矩 $\Lambda^{(0)}_{ijk} = \sum_i e_{i,i} e_{i,j} e_{i,k} f_i^{\mathrm{eq}}$。
