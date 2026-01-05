@@ -31,7 +31,7 @@ f_{i}^{\mathrm{eq}}(\boldsymbol{x},t)=w_i \rho \left[ 1+\frac{\boldsymbol{e}_{\b
 
 ```{math}
 :label: CE-ns-eq0
-\sum_i{f_{i}^{\mathrm{eq}}}=\rho, \sum_i{\boldsymbol{e}_{\boldsymbol{i}}f_{i}^{\mathrm{eq}}}=\rho \boldsymbol{u}, \sum_i{\boldsymbol{e}_{\boldsymbol{i}}\boldsymbol{e}_{\boldsymbol{i}}f_{i}^{\mathrm{eq}}}=\Pi^{(0)}= \rho c_{s}^{2}\mathbf{I}+\rho \boldsymbol{u}\boldsymbol{u}
+\sum_i{f_{i}^{\mathrm{eq}}}=\rho, \quad \sum_i{\boldsymbol{e}_{\boldsymbol{i}}f_{i}^{\mathrm{eq}}}=\rho \boldsymbol{u}, \quad \sum_i{\boldsymbol{e}_{\boldsymbol{i}}\boldsymbol{e}_{\boldsymbol{i}}f_{i}^{\mathrm{eq}}}=\Pi^{(0)}= \rho c_{s}^{2}\mathbf{I}+\rho \boldsymbol{u}\boldsymbol{u}
 ```
 其中 $\mathbf{I}$ 为单位张量，记$p=\rho c_s^2$，最后会看到$p$即为流体的静压力。
 
