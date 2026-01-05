@@ -1,7 +1,7 @@
 # CE展开：Navier-Stokes方程
 
 文档B站视频讲解：
-> [LBM求解Navier-Stokes方程的Chapman-Enskog展开(CE展开)](https://www.bilibili.com/video/BV1dR9tY7EBu/?share_source=copy_web&vd_source=6cb794fb9d90103946fb79ba5f60451f)
+> [LBM求解Navier-Stokes方程的Chapman-Enskog展开(CE展开)](https://www.bilibili.com/video/BV1EuibBiEYv/)
 
 **<font color="red">红色为相对于对流扩散方程增加的部分关键内容</font>**
 
