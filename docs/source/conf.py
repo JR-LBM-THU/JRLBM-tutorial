@@ -6,10 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'JRLBM-tut'
+project = 'JRLBM'
 copyright = '2025, JRLBM'
 author = 'JRLBM'
-release = '0.1'
+# release = '0.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
