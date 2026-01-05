@@ -3,7 +3,7 @@ title: 欢迎来到我的文档
 description: 这里是乱七八糟但有趣的话
 ---
 
-# 欢迎来到JRLBM的网站
+# JR同学教LBM——JRLBM
 本网站绝大部分内容均具有视频教程，请查阅：
 
 > B站：[JR同学教LBM-THU](https://space.bilibili.com/3546772196559344)
