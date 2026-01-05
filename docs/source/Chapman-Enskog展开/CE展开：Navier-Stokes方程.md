@@ -141,8 +141,8 @@ A\varepsilon +B\varepsilon ^2=C\varepsilon +D\varepsilon ^2
 :label: CE-ns-eq18-1
 \Pi^{(1)}_{ij} = -\tau \delta_t \left[ \frac{\partial}{\partial t_1} \left( \sum_\alpha e_{\alpha,i} e_{\alpha,j} f_\alpha^{\mathrm{eq}} \right) + \frac{\partial}{\partial x_{1,k}} \left( \sum_\alpha e_{\alpha,i} e_{\alpha,j} e_{\alpha,k} f_\alpha^{\mathrm{eq}} \right) \right]
 ```
-其中二阶矩 $\sum_i e_{i,i} e_{i,j} f_i^{\mathrm{eq}} = \Pi^{(0)}_{ij} = \rho u_i u_j + p \delta_{ij}$。
-三阶矩 $\Lambda^{(0)}_{ijk} = \sum_i e_{i,i} e_{i,j} e_{i,k} f_i^{\mathrm{eq}}$。
+其中二阶矩 $\sum_\alpha e_{\alpha,i} e_{\alpha,j} f_\alpha^{\mathrm{eq}} = \Pi^{(0)}_{ij} = \rho u_i u_j + p \delta_{ij}$。
+三阶矩 $\Lambda^{(0)}_{ijk} = \sum_\alpha e_{\alpha,i} e_{\alpha,j} e_{\alpha,k} f_\alpha^{\mathrm{eq}}$。
 
 ---
 
